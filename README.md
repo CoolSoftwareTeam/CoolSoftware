@@ -1,6 +1,6 @@
 # CoolSoftware
 
-Este es un Software para AG. Hice un cambio desde la interface web.
+Este es un Software para AG.
 
 ## Fuente de Datos
 
