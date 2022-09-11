@@ -1,9 +1,11 @@
 # CoolSoftware
-Este es un Software para AG 
+
+Este es un Software para AG.
 
 ## Fuente de Datos
-Describir la **fuente de datos**[1].
 
+Esta fuente de datos representa un listado de asistencia a las clases virtuales de **TEA**[1].
 
 # Referencias
-1.) https://x.y.z/fuentededatos
+
+1.) <https://zoom.us/profile>
