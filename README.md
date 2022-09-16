@@ -1,6 +1,6 @@
 # CoolSoftware
 
-Este es un Software para AG.
+Este es un Software para AG. For educational purposes only.
 
 ## Problema a resolver
 
